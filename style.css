@@ -1,2 +1,32 @@
-#Title{
+ body {
+    background-color: rgb(240, 230, 228); 
+    
+}
+
+
+#age {
+    background-color: white; 
+    font-family: Helvetica;
+    font-size: 15px;
+
+}
+
+#Zip {
+    background-color:white ;
+    font-family: Helvetica;
+    font-size: 15px;
+
+}
+
+#term {
+    background-color:white ;
+    font-family: Helvetica;
+    font-size: 15px;
+
+}
+
+#Intrests {
+    background-color: white;
+    font-family:Helvetica;
+    font-size: 15px;
 }
